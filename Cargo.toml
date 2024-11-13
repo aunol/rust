@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 tokio = { version = "1", features = ["full"] }
+rfd = "0.12"  # 폴더 및 파일 선택 UI 지원
